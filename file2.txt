@@ -1,2 +1,2 @@
-checking for second times
+checking push command on remote
 
